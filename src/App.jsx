@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div>
-      <a href="http://localhost:8080/oauth2/authorization/x" target="_blank">X Api</a>
+      <a href="http://localhost:8080/api/twitter/login" target="_blank">X Api</a>
       <a href="http://localhost:8080/oauth2/authorization/instagram" target="_blank">X Api</a>
       </div>
       <div className="card">
